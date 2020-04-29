@@ -28,7 +28,7 @@ body {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: url("https://cdn.jsdelivr.net/gh/Sitoi/Sitoi.github.io/medias/banner/0.jpg");
+  background: url("https://res.cloudinary.com/jkilv/image/upload/v1588158650/GitHub/6-min.jpg");
   background-attachment: local;
   background-position: center;
   -webkit-background-size: cover;
@@ -4890,7 +4890,6 @@ figure.gallery-group .gallery-group-name:after {
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: rgba(0,0,0,0.7);
   content: '';
 }
 [data-theme='dark'] #nav > #page-header a {
